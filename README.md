@@ -9,11 +9,11 @@ Agile Testing se implementa desde el primer día y las pruebas se realizan de ma
 
 ### ¿Qué ventajas viste al usar TDD? ¿Qué te costó más?
 
-La ventaja que vimos al usar TDD es que el desarrollo esta enfocado directamente a pruebas, teniendo ya en mente lo que podria fallar y se evitan fallos comunes que podrian haber ocurrido desarrollando de la forma tradicional, ademas de apuntar a un objetivo en concreto durante la escritura de codigo, lo que más nos costo fue invertir el proceso tradicional de desarrollo/pruebas, realizando primero los pruebas antes de escribir siquiera alguna función
+La ventaja que vimos al usar TDD es que el desarrollo esta enfocado directamente a pruebas, teniendo ya en mente lo que podría  fallar y se evitan fallos comunes que podrían haber ocurrido desarrollando de la forma tradicional, además de apuntar a un objetivo en concreto durante la escritura de código, lo que más nos costó fue invertir el proceso tradicional de desarrollo/pruebas, realizando primero los pruebas antes de escribir siquiera alguna función
 
 ### ¿Qué tipo de prueba crees que más valor aportó hoy?
 
-Las pruebas de integración, ya que con ellas se logro probar el funcionamiento real que tendria la API del ejercicio, pudiendo ver de forma clara como interactuan distintos componentes del codigo entre si
+Las pruebas de integración, ya que con ellas se logro probar el funcionamiento real que tendría la API del ejercicio, pudiendo ver de forma clara como interactúan los distintos componentes del código entre sí
 
 ### ¿Cómo mantendrías esta suite de pruebas con el tiempo?
 
